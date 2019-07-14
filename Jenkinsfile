@@ -34,4 +34,10 @@ node {
    stage('Deploy to Dev') {
      
    }
+   stage('Deploy to Stage') {
+     
+   }
+   stage('Deploy to Prod') {
+     
+   }
 }
